@@ -1,4 +1,4 @@
 
 LIVE SITE
 
-<a href="Https://www.pharmaplusapp.netlify.app">pharmaplusapp.netlify.app</a>
+<a href="Https://pharmaplusapp.netlify.app">pharmaplusapp.netlify.app</a>
